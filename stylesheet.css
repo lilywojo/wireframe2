@@ -14,7 +14,7 @@ h1 {
 display: grid;
 grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto;
 grid-gap: 10px;
-padding-top: 5 px;
+padding-top: 5px;
 padding-left: 5px;
 padding-right:5px;
 background-color: white
@@ -122,6 +122,6 @@ background-color: white
     display: grid; 
     background-color:lightgreen; 
     grid-column: 1/13;
-    padding: 35px;
+    padding: 20px;
   }
 
