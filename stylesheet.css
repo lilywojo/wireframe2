@@ -1,3 +1,16 @@
+
+
+div {
+  display:block;
+}
+
+x
+h1 {
+  color:white;
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
 .container {
 display: grid;
 grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
@@ -8,12 +21,6 @@ padding-right:5px;
 background-color: white
 }
 
-h1 {
-color:white;
-font-family:Arial, Helvetica, sans-serif;
-text-align: center;
-
-}
 
 .boxone{
     display: grid; 
@@ -23,7 +30,7 @@ text-align: center;
     padding: 35px;
   }
   
-  .boxtwo{
+.boxtwo{
     display: grid; 
     background-color: lightblue; 
     grid-column: 5/9;
@@ -31,7 +38,7 @@ text-align: center;
     padding: 35px; 
   }
   
-  .boxthree{
+.boxthree{
     display: grid; 
     background-color: lavender;
     grid-column: 9/13; 
@@ -39,7 +46,7 @@ text-align: center;
     padding: 35px; 
   }
   
-  .boxfour{
+.boxfour{
     display: grid; 
     background-color:lightgreen; 
     grid-column: 1/11; 
@@ -47,7 +54,7 @@ text-align: center;
     padding: 35px; 
   }
   
-  .boxfive{
+.boxfive{
     display: grid; 
     background-color:lightsalmon; 
     grid-column: 11/13; 
@@ -55,7 +62,7 @@ text-align: center;
     padding: 35px; 
   }
   
-  .boxsix{
+.boxsix{
     display: grid; 
     background-color: lavender; 
     grid-column: 1/9; 
@@ -63,7 +70,7 @@ text-align: center;
     padding: 35px; 
   }
   
-  .boxseven{
+.boxseven{
     display: grid; 
     background-color:lightblue; 
     grid-column: 9/13; 
@@ -72,7 +79,7 @@ text-align: center;
     padding: 35px; 
   }
   
-  .boxeight{
+.boxeight{
     display: grid; 
     background-color: lightsalmon; 
     grid-column: 1/9; 
@@ -80,7 +87,7 @@ text-align: center;
     padding: 35px; 
   }
   
-  .boxnine{
+.boxnine{
     display: grid; 
     background-color:palegoldenrod; 
     grid-column: 1/4; 
@@ -88,7 +95,7 @@ text-align: center;
     padding: 35px;
   }
   
-  .boxten{
+.boxten{
     display: grid; 
     background-color:lightblue; 
     grid-column: 4/7; 
@@ -96,7 +103,7 @@ text-align: center;
     padding: 35px;
   }
   
-  .boxeleven{
+.boxeleven{
     display: grid; 
     background-color:palegoldenrod; 
     grid-column: 7/10; 
@@ -104,7 +111,7 @@ text-align: center;
     padding: 35px;
   }
   
-  .boxtwelve{
+.boxtwelve{
     display: grid; 
     background-color: lightsalmon; 
     grid-column: 10/13; 
@@ -112,7 +119,7 @@ text-align: center;
     padding: 35px;
   }
   
-  .boxthirteen{
+.boxthirteen{
     display: grid; 
     background-color:lightgreen; 
     grid-column: 1/13;
